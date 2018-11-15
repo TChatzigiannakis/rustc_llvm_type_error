@@ -1,3 +1,5 @@
+![Travis badge](https://travis-ci.org/TChatzigiannakis/rustc_llvm_type_error.svg?branch=master)
+
 # rustc_llvm_type_error
 A program that type checks in Rust but gets a type error in LLVM.
 
